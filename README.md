@@ -13,11 +13,11 @@ The text in the clicked HTML button element and the text in the HTML span elemen
 
 ## CSS Colors used:
 
-#e0e0e0
-#6fcf97
-#56ccf2
-#bb6bd9
-#222222
+#e0e0e0 </br>
+#6fcf97 </br>
+#56ccf2 </br>
+#bb6bd9 </br>
+#222222 </br>
 #49a6e9
 
 ## CSS Font families used:
